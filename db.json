@@ -1,0 +1,34 @@
+{
+	"posts":[
+		{
+			"id":1,
+			"title":"Post 1",
+			"video_uuid":null,
+			"image_uuid":"c0d33850-6200-476e-aa52-8f7d4a537491"
+		},
+		{
+			"id":2,
+			"title":"Post 2",
+			"image_uuid":"e489c22c-5a8f-4c46-9346-d00f946eba9e",
+			"video_uuid":null
+		},
+		{
+			"id":3,
+			"title":"Post 3",
+			"image_uuid":null,
+			"video_uuid":null
+		}
+	],
+	"comments":[
+		{
+			"id":1,
+			"body":"some comment",
+			"post_id":1
+		},
+		{
+			"id":2,
+			"body":"some comment",
+			"post_id":1
+		}
+	]
+}
